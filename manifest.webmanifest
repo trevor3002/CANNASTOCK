@@ -1,21 +1,22 @@
 {
+  "id": "./",
   "name": "Puff Puff Inventory",
   "short_name": "Puff Puff",
   "description": "Puff Puff Inventory stock and sales tracking",
-  "start_url": "./?source=homescreen",
+  "start_url": "./?source=homescreen&icon=6",
   "scope": "./",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "./puff-puff-logo-v3.svg?v=5",
+      "src": "./puff-puff-app-icon.svg?v=6",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "./puff-puff-logo-v3.svg?v=5",
+      "src": "./puff-puff-app-icon.svg?v=6",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "maskable"
