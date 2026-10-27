@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 200 200" role="img" aria-labelledby="title">
+<title>PUFF PUFF INVENTORY — official monochrome badge</title>
+<rect width="200" height="200" fill="#000"/>
+<circle cx="100" cy="100" r="94" fill="#000" stroke="#fff" stroke-width="4"/>
+<circle cx="100" cy="100" r="86" fill="none" stroke="#777" stroke-width="1.5"/>
+<g fill="#fff" stroke="#fff" stroke-linejoin="round">
+<path d="M100 20 C94 34 92 43 94 52 C83 38 73 34 65 33 C70 47 80 58 92 65 C77 60 66 62 57 68 C71 77 83 79 96 75 C85 87 83 98 86 108 L100 92 L114 108 C117 98 115 87 104 75 C117 79 129 77 143 68 C134 62 123 60 108 65 C120 58 130 47 135 33 C127 34 117 38 106 52 C108 43 106 34 100 20Z" stroke-width="2"/>
+<path d="M100 48 L100 96" fill="none" stroke="#000" stroke-width="2"/>
+</g>
+<g fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"><path d="M20 73 C31 65 35 57 34 49 M180 73 C169 65 165 57 166 49"/><path d="M25 91 C36 84 39 77 38 70 M175 91 C164 84 161 77 162 70"/></g>
+<text x="100" y="126" text-anchor="middle" fill="#fff" font-family="Impact,Arial Black,sans-serif" font-size="35" font-weight="900" letter-spacing="-1">PUFF</text>
+<text x="100" y="151" text-anchor="middle" fill="#fff" font-family="Impact,Arial Black,sans-serif" font-size="24" font-weight="900" letter-spacing="1">PUFF</text>
+<path d="M40 160 H70 M130 160 H160" stroke="#fff" stroke-width="1.5"/><path d="M100 154 l-5 6 5 6 5-6z" fill="#fff"/>
+<text x="100" y="176" text-anchor="middle" fill="#ddd" font-family="Arial,sans-serif" font-size="7" font-weight="700" letter-spacing="0.35">INVENTORY</text>
+</svg>
