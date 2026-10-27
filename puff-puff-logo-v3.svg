@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title">
-<title>PUFF PUFF STOCK — official monochrome badge</title>
+<title>PUFF PUFF INVENTORY — official monochrome badge</title>
 <rect width="200" height="200" fill="#000"/>
 <circle cx="100" cy="100" r="94" fill="#000" stroke="#fff" stroke-width="4"/>
 <circle cx="100" cy="100" r="86" fill="none" stroke="#777" stroke-width="1.5"/>
@@ -11,5 +11,5 @@
 <text x="100" y="126" text-anchor="middle" fill="#fff" font-family="Impact,Arial Black,sans-serif" font-size="35" font-weight="900" letter-spacing="-1">PUFF</text>
 <text x="100" y="151" text-anchor="middle" fill="#fff" font-family="Impact,Arial Black,sans-serif" font-size="24" font-weight="900" letter-spacing="1">PUFF</text>
 <path d="M40 160 H70 M130 160 H160" stroke="#fff" stroke-width="1.5"/><path d="M100 154 l-5 6 5 6 5-6z" fill="#fff"/>
-<text x="100" y="176" text-anchor="middle" fill="#ddd" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1.2">STOCK</text>
+<text x="100" y="176" text-anchor="middle" fill="#ddd" font-family="Arial,sans-serif" font-size="7" font-weight="700" letter-spacing="0.35">INVENTORY</text>
 </svg>
